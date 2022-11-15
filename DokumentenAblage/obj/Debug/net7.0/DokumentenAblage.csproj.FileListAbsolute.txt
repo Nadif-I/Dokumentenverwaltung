@@ -1,0 +1,15 @@
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/bin/Debug/net7.0/DokumentenAblage
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/bin/Debug/net7.0/DokumentenAblage.deps.json
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/bin/Debug/net7.0/DokumentenAblage.runtimeconfig.json
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/bin/Debug/net7.0/DokumentenAblage.dll
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/bin/Debug/net7.0/DokumentenAblage.pdb
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/obj/Debug/net7.0/DokumentenAblage.csproj.AssemblyReference.cache
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/obj/Debug/net7.0/DokumentenAblage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/obj/Debug/net7.0/DokumentenAblage.AssemblyInfoInputs.cache
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/obj/Debug/net7.0/DokumentenAblage.AssemblyInfo.cs
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/obj/Debug/net7.0/DokumentenAblage.csproj.CoreCompileInputs.cache
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/obj/Debug/net7.0/DokumentenAblage.dll
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/obj/Debug/net7.0/refint/DokumentenAblage.dll
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/obj/Debug/net7.0/DokumentenAblage.pdb
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/obj/Debug/net7.0/DokumentenAblage.genruntimeconfig.cache
+/Users/ilyassnadif/Projects/DokumentenAblage/DokumentenAblage/obj/Debug/net7.0/ref/DokumentenAblage.dll
